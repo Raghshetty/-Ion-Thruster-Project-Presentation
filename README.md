@@ -15,5 +15,5 @@ Ion thrusters are electric propulsion devices that generate thrust by ionizing a
 -->Benefits
    High specific impulse (fuel efficiency)
    Precise thrust control
-   Suitable for extended missions
+   Suitable for extended missions 
 
