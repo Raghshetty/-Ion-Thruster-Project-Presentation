@@ -16,4 +16,5 @@ Ion thrusters are electric propulsion devices that generate thrust by ionizing a
    High specific impulse (fuel efficiency)
    Precise thrust control
    Suitable for extended missions 
+   :}
 
